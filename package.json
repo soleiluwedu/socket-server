@@ -1,0 +1,11 @@
+{
+  "name": "socket-server",
+  "version": "0.0.0-alpha0",
+  "description": "NodeJS socket server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thai-Duong Nguyen",
+  "license": "MIT"
+}
